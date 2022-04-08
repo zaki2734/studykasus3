@@ -1,0 +1,8 @@
+==============Slip Pembayaran=============
+
+
+pesanan : Ayam Bakar
+Jumlah pesanan 3
+total bayar = 100000
+===========selamat menikmati==============
+=============Terima Kasih=================
